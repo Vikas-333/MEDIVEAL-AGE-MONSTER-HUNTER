@@ -1,0 +1,2 @@
+# MEDIVEAL-AGE-MONSTER-HUNTER
+In our project it's a single player strategy game emphasizing logical thinking and planning. They often stress resource and time management, which usually takes precedence over fast action and character involvement.Tactical organization and execution are necessary, and the game creators usually place the decision-making skills and delivery of commands in the player's hands.
